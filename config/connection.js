@@ -10,7 +10,7 @@ if (process.env.JAWSDB_URL) {
     password:"password",
     database: "burgers_db"
   });
-});
+};
 
 // Create connection
 connection.connect(function(err){
