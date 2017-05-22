@@ -1,0 +1,29 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "EatDaBurger HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minicooperj/EatDaBurger.git"
+  },
+  "keywords": [
+    "HW"
+  ],
+  "author": "CJC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minicooperj/EatDaBurger/issues"
+  },
+  "homepage": "https://github.com/minicooperj/EatDaBurger#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.8",
+    "mysql": "^2.13.0"
+  }
+}
